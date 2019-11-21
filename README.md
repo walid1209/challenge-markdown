@@ -1,8 +1,8 @@
-##WALID EL KHALFIOUI
+## WALID EL KHALFIOUI
 ***You can do more than you think
 ![](/home/walid/Desktop/Walid.jpg?raw=true)
 
-#####ambitious,motivated and creative.
+##### ambitious,motivated and creative.
 
 | Birthday      | 12-09-1996       |    |
 | ------------- |:-------------:| -----:
@@ -15,7 +15,7 @@
 
 
 
-######HOBBIES
+###### HOBBIES
 * watching footbal 
 * watching movies
   * fast and the furious
